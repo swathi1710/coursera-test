@@ -1,0 +1,54 @@
+h1{
+    color:green;
+    text-align: center;
+}
+.container-div{
+    color: blue;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+     background-color: burlywood;
+    padding: 0;
+    margin-left: 1rem;
+
+    
+
+}
+.heading{
+    text-align: end;
+    position: relative;
+    
+}
+.heading-text{
+    border: 3px solid black;
+    position: relative;
+    left:1px;
+
+}
+.heading1{
+    text-align: end;
+    position: relative;
+    
+}
+.heading-text1{
+    border: 3px solid black;
+    position: relative;
+    left:2px;
+
+}
+.heading2{
+    text-align: end;
+    position: relative;
+    
+}
+.heading-text2{
+    border: 3px solid black;
+    position: relative;
+    left:1px;
+
+}
+@media (min-width:1200px){
+   .col-lg-4{
+       width: 33%;
+   }
+}
+
